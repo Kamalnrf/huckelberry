@@ -65,5 +65,5 @@ main {
   padding-left: 32px;
   margin-left: -32px;
   width: fit-content;
-  border-bottom: 4px solid hsl(0deg, 0%, 40%);
+  border-bottom: 4px solid hsl(45deg, 100%, 40%);
 }
